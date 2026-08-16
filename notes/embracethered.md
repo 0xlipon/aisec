@@ -18,7 +18,13 @@
 
 ![Prompt Injection Payload](../assets/prompt-injection-payload.png)
 
+### 🖼️ Conditional Prompt Injection Payload
+
+![Conditional Prompt Injection Payload](../assets/conditional-prompt-injection-payload.png)
+
 **Related Video:** 
 
 [Agentic ProbLLMs — Exploiting AI Computer-Use and Coding Agents](https://www.youtube.com/watch?v=TWhKGqYQT9g)
+
+
 
