@@ -1,11 +1,7 @@
-## Resources
+# AI Security
 
-### 👤 Johann Rehberger
-- [YouTube — Embrace The Red](https://www.youtube.com/@embracethered)
+> Notes and resources on AI security, LLMs, prompt injection, and agentic AI.
 
-### 🎓 Course
-- [Hacking AI — HackingHub](https://app.hackinghub.io/course/hacking-ai)
+### Notes
 
-### 📚 Research & References
-- [System Prompts — wunderwuzzi23](https://github.com/wunderwuzzi23/scratch/tree/master/system_prompts)
-- [ASCII Smuggler — Embrace The Red](https://embracethered.com/blog/ascii-smuggler.html)
+* [Embrace The Red](notes/embracethered.md)
