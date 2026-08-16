@@ -16,4 +16,4 @@
 
 ### 🖼️ Prompt Injection Payload
 
-![Prompt Injection Payload](assets/prompt-injection-payload.png)
+![Prompt Injection Payload](../assets/prompt-injection-payload.png)
