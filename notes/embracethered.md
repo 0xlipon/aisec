@@ -17,3 +17,5 @@
 ### 🖼️ Prompt Injection Payload
 
 ![Prompt Injection Payload](../assets/prompt-injection-payload.png)
+
+**Related Video:** [Agentic ProbLLMs — Exploiting AI Computer-Use and Coding Agents](https://www.youtube.com/watch?v=TWhKGqYQT9g)
