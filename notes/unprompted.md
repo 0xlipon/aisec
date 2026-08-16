@@ -14,3 +14,4 @@
 ### 📚 Research
 
 - [LLM-discovered 0-days — Anthropic](https://www.anthropic.com/research/zero-days)
+- [Security Advisories — Ghost](https://github.com/TryGhost/Ghost/security)
