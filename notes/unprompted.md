@@ -15,3 +15,4 @@
 
 - [LLM-discovered 0-days — Anthropic](https://www.anthropic.com/research/zero-days)
 - [Security Advisories — Ghost](https://github.com/TryGhost/Ghost/security)
+- [AI agents find $4.6M in blockchain smart contract exploits — Anthropic](https://www.anthropic.com/research/smart-contracts)
