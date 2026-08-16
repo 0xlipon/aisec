@@ -9,3 +9,4 @@
 
 ![Claude CTF Prompt](../assets/claude-ctf-prompt.png)
 ![Claude CTF Prompt — Source Hint](../assets/claude-ctf-prompt-hint.png)
+![Claude CTF Prompt — baz.c](../assets/claude-ctf-prompt-baz.png)
